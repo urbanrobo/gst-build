@@ -2,4 +2,4 @@
 directory=gst-plugins-good
 url=git@github.com:urbanrobo/gst-plugins-good.git
 push-url=git@github.com:urbanrobo/gst-plugins-good.git
-revision=halo
+revision=halo-new
