@@ -1,5 +1,4 @@
 [wrap-git]
 directory=gstreamer
-url=git@github.com:urbanrobo/gstreamer.git
-push-url=git@github.com:urbanrobo/gstreamer.git
+url=https://github.com/urbanrobo/gstreamer.git
 revision=halo

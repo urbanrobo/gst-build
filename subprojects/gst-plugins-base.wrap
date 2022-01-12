@@ -1,5 +1,4 @@
 [wrap-git]
 directory=gst-plugins-base
-url=git@github.com:urbanrobo/gst-plugins-base.git
-push-url=git@github.com:urbanrobo/gst-plugins-base.git
+url=https://github.com/urbanrobo/gst-plugins-base.git
 revision=halo
